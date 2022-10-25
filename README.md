@@ -7,7 +7,22 @@ Automation optional but set up to support, second page of graphing included.
 
 If starting the sheet at a date that is not the first of the month the graphing sheets must be altered to suit the duration of that month and the proceeding months. 
 
-the sheet is prepared to handle automatic colour coding for tick boxes (which are graphed) and temperature, though further conditional formatting is encouraged but not preset.
+### Pre Configured Colour coding is as follows:
+
+[x] Temperature
+
+[x] Steps < 1000 red, < 10000 yellow, > 10000 green
+
+[x] All Tick boxes
+
+[x] Day out of 10 rating < 5 red > 5 and < 10 green 
+
+[x] Money spent - between 1 and 50 green, 51 and 100 yellow, 100+ red 
+
+[x] Excerise method is colour coded based on activity completed. walk run jog gym bike 
+
+[x] Mood is colour coded based on predefined list that can be expanded. happy sad confused angry stressed nervous and bored.
+
 
 ### Images contain example data. The template file is blank.
 
