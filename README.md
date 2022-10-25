@@ -11,11 +11,11 @@ the sheet is prepared to handle automatic colour coding for tick boxes (which ar
 
 ### Images contain example data. The template file is blank.
 
-![image](https://user-images.githubusercontent.com/72751518/197677150-353dd5c3-9cca-486d-b550-b81f1bdf4114.png)
+![image](https://user-images.githubusercontent.com/72751518/197677823-fe962c75-ab71-4b65-9b27-713aa3e599cb.png)
 
 ![image](https://user-images.githubusercontent.com/72751518/197677161-92eff28b-1f4c-496b-9f15-c95a17455a23.png)
 
-![image](https://user-images.githubusercontent.com/72751518/197677283-b97dc97b-8e8f-44a0-8bda-569c82db4476.png)
+![image](https://user-images.githubusercontent.com/72751518/197677964-35d418b2-eb31-403a-923e-1820d22d597b.png)
 
 
 
