@@ -55,7 +55,7 @@ If starting the sheet at a date that is not the first of the month the graphing 
 
 ### Pre Configured Colour coding is as follows:
 
-[x] Temperature
+[x] Temperature <= 10c blue > 15c but <20c yellow, 20c+ red 
 
 [x] Steps < 1000 red, < 10000 yellow, > 10000 green
 
