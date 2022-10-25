@@ -86,7 +86,7 @@ Download the .xlsx file from the repository [link](https://github.com/equipter/L
     
 ## Support
 
-For support or recommendations of things to add message Equip on discord @ Equip#1515
+For help with integrating your personal API's for automation or scripting or recommendations of things to add to the sheet, message Equip on discord @ Equip#1515
 
 
 
