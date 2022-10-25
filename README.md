@@ -7,6 +7,52 @@ Automation optional but set up to support, second page of graphing included.
 
 If starting the sheet at a date that is not the first of the month the graphing sheets must be altered to suit the duration of that month and the proceeding months. 
 
+### Pre Configured Colums are as follows:
+
+[x] Date
+
+[x] Day
+
+[x] Temperature
+
+[x] Weather
+
+[x] Time woken up 
+
+[x] Time fallen asleep 
+
+[x] Breakfast food 
+
+[x] Lunch food 
+
+[x] Evening meal food 
+
+[x] Exercise performed that day 
+
+[x] Tickbox - Shower taken that day 
+
+[x] Tickbox - Teeth brushed that day 
+
+[x] Tickbox - Shaved that day 
+
+[x] Tickbox - drank 2L water that day 
+
+[x] Tickbox - Worked that day 
+
+[x] Steps walked 
+
+[x] Money spent 
+
+[x] Diary - journal that day briefly
+
+[x] One good thing that happened that day 
+
+[x] Overall feeling of the day 
+
+[x] Rate the day out of 10 
+
+[x] Screen time of that day
+
 ### Pre Configured Colour coding is as follows:
 
 [x] Temperature
